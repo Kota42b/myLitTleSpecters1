@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f1f328e9EECBF9042F0Aa41036aeEB58d4b6497",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0f1f328e9eecbf9042f0aa41036aeeb58d4b6497",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "My Little Specter",
+  "SYMBOL": "MLSNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/my-little-specter",
+  "SHOW_BACKGROUND": true
+}
